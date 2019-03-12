@@ -9,7 +9,7 @@ import java.util.ArrayList;
 public class Bank {
 
     private static Bank myBank;
-    private ArrayList<Customer> customers = new ArrayList<>(10);    
+    private ArrayList<Customer> customers = new ArrayList<>();    
 
     private Bank() {}
 
