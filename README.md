@@ -10,4 +10,8 @@
 Додаткові лабораторні роботи (створення інтерфейсу користувача) розміщені в [іншому репозитрію](https://github.com/liketaurus/TUI-Labs)
 
 ---
-Про всяк випадок - [15 кращих безкоштовних онлайновихз курсів по Java](https://qubit-labs.com/free-resources-learn-java-programming-online/)
+Нагадую, що дуже рекомендованими (плюсик на екзамені:-)) є наступні два курси:
+- [Основи програмування на Java](https://courses.prometheus.org.ua/courses/EPAM/JAVA101/2016_T2/about) від [Prometheus](https://prometheus.org.ua/)
+- [Java. Classes](https://stepik.org/course/6864) від [Stepik](https://stepik.org/)
+
+Про всяк випадок - [ще 15 кращих безкоштовних онлайнових курсів по Java](https://qubit-labs.com/free-resources-learn-java-programming-online/)
