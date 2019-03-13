@@ -5,6 +5,8 @@
 
 Приклад реалізації всіх необхідних класів для виконання лабораторних робіт #1-8 (проект **Banking**, [Netbeans](https://netbeans.org/)) з ООП на третьому курсі [ППК НТУ "ХПІ](http://polytechnic.poltava.ua)".
 
+!(Class Diagram)[https://github.com/liketaurus/OOP-JAVA/blob/master/MyBank.png]
+
 Додаткові лабораторні роботи (створення інтерфейсу користувача) розміщені в [іншому репозитрію](https://github.com/liketaurus/TUI-Labs)
 
 ---
