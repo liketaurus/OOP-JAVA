@@ -15,3 +15,5 @@
 - [Java. Classes](https://stepik.org/course/6864) від [Stepik](https://stepik.org/)
 
 Про всяк випадок - [ще 15 кращих безкоштовних онлайнових курсів по Java](https://qubit-labs.com/free-resources-learn-java-programming-online/)
+
+**Не забуваємо - попереду іспит!**
